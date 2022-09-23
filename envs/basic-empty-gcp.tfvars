@@ -8,5 +8,9 @@ clusters = [
     region       = "europe-west3"
     type         = "BASIC" # BASIC / STANDARD / DEDICATED 
 
+    serv_account_admin = {
+      name = "akoh-sa-demo"
+      role = "CloudClusterAdmin"
+    }
   }
 ]
