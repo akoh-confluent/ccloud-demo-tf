@@ -2,7 +2,7 @@ environment = "env-gwg3m"
 
 clusters = [
   {
-    display_name = "basic-tf"
+    display_name = "basic-env-2"
     availability = "SINGLE_ZONE"
     cloud        = "GCP"
     region       = "europe-west3"
